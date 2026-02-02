@@ -24,7 +24,7 @@ const BRAND = {
   name: "Instant Shade",
   slogan: "measure. mount. marvel",
   owner: "Bryan Heilman",
-  phone: "(215) 360-4621",
+  phone: "+1(215) 360-4621",
   email: "info@instantshadeinstalls.com",
   area: "Servicing PA & NJ",
   colors: {
